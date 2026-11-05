@@ -23,7 +23,7 @@ export const metadata: Metadata = {
     "Mobile App Development",
     "Cloud Solutions",
     "Technical Consulting",
-    "Gemini AI",
+    "Enterprise Software",
     "Next.js 15",
   ],
   authors: [{ name: "Cynbit Technologies", url: "https://cynbit.in" }],

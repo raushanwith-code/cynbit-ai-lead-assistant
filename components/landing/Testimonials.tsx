@@ -7,7 +7,7 @@ export function Testimonials() {
   const reviews = [
     {
       quote:
-        "Cynbit automated our entire invoice processing pipeline with Gemini models. What used to take our finance team 4 days now completes in under 20 minutes with 99.8% precision.",
+        "Cynbit automated our entire invoice processing pipeline with custom intelligent automation workflows. What used to take our finance team 4 days now completes in under 20 minutes with 99.8% precision.",
       author: "Rohan Varma",
       role: "VP of Engineering",
       company: "FinFlow Systems",

@@ -86,7 +86,7 @@ export function Footer() {
         <div className="pt-8 flex flex-col sm:flex-row items-center justify-between gap-4 text-[11px] text-zinc-500">
           <p>© {new Date().getFullYear()} Cynbit Technologies. All rights reserved.</p>
           <p className="flex items-center gap-1">
-            <span>Engineered with Next.js 15, Gemini API &amp; MongoDB</span>
+            <span>Enterprise Software &amp; Cloud Engineering • Cynbit Technologies</span>
           </p>
         </div>
       </div>

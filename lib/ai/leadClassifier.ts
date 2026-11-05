@@ -89,7 +89,7 @@ export function classifyCynbitService(requirementText: string, declaredBudget: s
   // Tech stacks & recommendations map
   const techMap: Record<CynbitService, { stack: string[]; needs: string[]; baseRationale: string }> = {
     "AI Automation": {
-      stack: ["Next.js 15", "Google Gemini 1.5 Pro / Flash", "LangChain / LlamaIndex", "FastAPI / Python", "Vector DB (Pinecone/pgvector)"],
+      stack: ["Next.js 15", "Enterprise LLM Pipelines", "LangChain / LlamaIndex", "FastAPI / Python", "Vector DB (Pinecone/pgvector)"],
       needs: ["Automated task processing", "LLM reasoning & extraction", "Enterprise database integrations"],
       baseRationale: "Client benefits from Cynbit's AI Automation framework for operational cost reduction and intelligent user interactions.",
     },

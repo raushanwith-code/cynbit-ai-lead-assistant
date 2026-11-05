@@ -21,9 +21,9 @@ export function CynbitHero() {
           className="inline-flex items-center gap-2 rounded-full border border-cyan-500/30 bg-cyan-950/40 px-4 py-1.5 text-xs text-cyan-300 shadow-lg shadow-cyan-950/40 backdrop-blur-md mb-6"
         >
           <Sparkles className="h-3.5 w-3.5 text-cyan-400" />
-          <span className="font-semibold">Next-Gen AI Lead Intelligence</span>
+          <span className="font-semibold">Cynbit Technologies</span>
           <span className="h-3 w-px bg-cyan-500/30" />
-          <span className="text-zinc-400">Powered by Gemini 1.5 & Next.js 15</span>
+          <span className="text-zinc-400">Enterprise Digital &amp; Software Engineering</span>
         </motion.div>
 
         {/* Hero Title */}
